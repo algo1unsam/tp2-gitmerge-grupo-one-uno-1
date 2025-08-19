@@ -1,7 +1,7 @@
 object algoritmo {
   
   method color() { 
-    return "NARANJA"
+    return "NARANJA Clarito"
     }
 }
 
@@ -15,5 +15,9 @@ object salta{
 }
 
 object formosa{
+
+}
+
+object chaco{
 
 }
